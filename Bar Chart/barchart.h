@@ -1,10 +1,10 @@
-/*Keegan Miller
-University of Illinois at Chicago
-10/15/2022
-Project 3 Animation Graph
-Using windows 10 on Replit*/
+/*
+Edwin Jasper
+University of Illinois
+Project 3 Bar Chart
+Using MacOS and VScode
 // barchart.h
-
+*/
 
 #include <iostream>
 #include <algorithm>

@@ -1,6 +1,6 @@
 /* 
 	Header:
-	Edwin JAsper
+	Edwin Jasper
 	University of Illinois at Chicago
 	Program 3: Bar Chart
 	Using MacOS and VScode
