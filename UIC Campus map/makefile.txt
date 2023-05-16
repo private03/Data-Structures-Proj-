@@ -1,0 +1,7 @@
+build:
+	rm -f program.exe
+	g++ -O2 -std=c++11 -Wall application.cpp dist.cpp osm.cpp tinyxml2.cpp -o program.exe
+
+run:
+	./program.exe
+
